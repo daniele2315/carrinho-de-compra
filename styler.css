@@ -9,3 +9,7 @@ header{
     background-color: #9a1a1aff;
     padding: 10px;
 }
+main{
+    display: flex;
+    justify-content: space-around;
+}
